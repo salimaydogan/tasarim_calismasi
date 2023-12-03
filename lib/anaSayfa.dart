@@ -69,7 +69,7 @@ class _AnaSayfaState extends State<AnaSayfa> {
                 Padding(
                   padding: const EdgeInsets.all(16.0),
                   child: Text(
-                    "Delivery",
+                    "Deliveryy",
                     style: TextStyle(
                         fontSize: 22,
                         color: anaRenk,
