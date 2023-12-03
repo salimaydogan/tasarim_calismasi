@@ -31,7 +31,7 @@ class _AnaSayfaState extends State<AnaSayfa> {
           Padding(
             padding: const EdgeInsets.only(top: 16),
             child: Text(
-              "Beef Cheesee",
+              "Beef Cheese",
               style: TextStyle(
                   fontSize: 36, color: anaRenk, fontWeight: FontWeight.bold),
             ),
